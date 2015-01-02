@@ -13,4 +13,4 @@ Green (lock the canvas, no edits can be made accidentally)<br>
 Blue: (switch from pen(Blue) to eraser (pink))<br>
 To save your canvas, just take screenshots.
 
-Quickdoodle isn't yet on the Play Store. To Install, download it on your device from here, and make sure "Unknown Sources" is checked onn in your system settings (usually under applications or security)
+Quickdoodle isn't yet on the Play Store, but will be uploaded there soon. To Install, download it on your device from here, and make sure "Unknown Sources" is checked onn in your system settings (usually under applications or security)
