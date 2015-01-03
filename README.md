@@ -2,7 +2,7 @@ QuickDoodle
 ===========
 
 Android drawing / note taking application designed with Samsung's Galaxy Note devices in mind<br>
-<img src="http://andrewpinion.com/img/quickdoodle.png"  height=150>&nbsp;&nbsp;
+<img src="http://andrewpinion.com/img/qdnew2.png"  height=150>&nbsp;&nbsp;
 <a href="http://andrewpinion.com/img/qdoodle2.jpg"><img src="http://andrewpinion.com/img/qdoodle2.jpg" width=200 height=150></a>
 <a href="http://andrewpinion.com/img/qdoodle1.jpg"><img src="http://andrewpinion.com/img/qdoodle1.jpg" width=200 height=150></a>
 <br><br>
