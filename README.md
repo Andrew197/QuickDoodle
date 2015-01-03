@@ -8,7 +8,7 @@ Android drawing / note taking application designed with Samsung's Galaxy Note de
 <br><br>
 The default S-Pen application (S-Note) is not particularly fast to start on some devices (such as the Note 2 or Tab 10.1) and its large feature set can be cumbersome if all you need to do is jot something down quickly. I made Quickdoodle specifically to fill this gap.<br><br>
 It contains a single surface for note taking, and three controls:<br>
-Red (clear the canvas, with a two-click conformation mechanism)<br>
+Red (clear the canvas, with a two-click confirmation mechanism)<br>
 Green (lock the canvas, no edits can be made accidentally)<br>
 Blue: (switch from pen(Blue) to eraser (pink))<br>
 To save your canvas, just take screenshots.
