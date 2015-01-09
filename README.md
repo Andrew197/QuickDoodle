@@ -3,7 +3,7 @@ QuickDoodle
 
 Android drawing / note taking application designed with Samsung's Galaxy Note devices in mind<br>
 <img src="http://andrewpinion.com/img/qdsmall.png"  height=150>&nbsp;&nbsp;
-<a href="http://andrewpinion.com/img/qdoodle2.jpg"><img src="http://andrewpinion.com/img/qdoodle2.jpg" width=200 height=150></a>
+<a href="http://andrewpinion.com/img/qdoodle22.jpg"><img src="http://andrewpinion.com/img/qdoodle22.jpg" width=200 height=150></a>
 <a href="http://andrewpinion.com/img/qdoodle11.jpg"><img src="http://andrewpinion.com/img/qdoodle1.jpg" width=200 height=150></a>
 <br><br>
 The default S-Pen application (S-Note) is not particularly fast to start on some devices (such as the Note 2 or Tab 10.1) and its large feature set can be cumbersome if all you need to do is jot something down quickly. I made Quickdoodle specifically to fill this gap.<br><br>
