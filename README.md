@@ -12,4 +12,4 @@ Red (clear the canvas, with a two-click confirmation mechanism)<br>
 Green (save the canvas to /sdcard/dcim/quickdoodles)<br>
 Blue: (switch from pen(Blue) to eraser (pink))<br>
 
-Quickdoodle isn't yet on the Play Store, but will be uploaded there soon. To Install, download it on your device from here, and make sure "Unknown Sources" is checked onn in your system settings (usually under applications or security)
+Quickdoodle is now available at the <b><a href="https://play.google.com/store/apps/details?id=com.andrewpinion.qdoodle&hl=en">Google Play Store</a></b> for devices running Android 4.4 Kitkat or later. The kitkat requirement is a Google play related bug that I am currently investigating, the build hosted here on github works on all devices running Android 4.0 or later.
